@@ -1,16 +1,12 @@
-### Hi there 👋
+<h2>Sejam Bem-vindos 👋</h2>
 
-<!--
-**Vivianpcamargo/Vivianpcamargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4>Sou Analista de Desenvolvimento de Sistemas e comecei atuar na área profissional no ano de 2020, cursei TI por 3 anos e tenho conhecimentos em Java, JavaScript, CSS, PHP, MySQL, C++ e C#</h4>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivianpcamargo&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=Vivianpcamargo&theme=buefy"/></td>
+    </tr>   
+</table>
+</center> 
