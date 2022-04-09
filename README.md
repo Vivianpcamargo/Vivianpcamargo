@@ -1,7 +1,21 @@
 ![alt text](https://github.com/Vivianpcamargo/Vivianpcamargo/blob/main/VivianCamargo.png?raw=true)
 <h2>Sejam Bem-vindos 👋</h2>
 
-<h4>Sou Analista de Desenvolvimento de Sistemas e comecei atuar na área profissional no ano de 2020, cursei TI por 3 anos e tenho conhecimentos em Java, JavaScript, CSS, PHP, MySQL, C++ e C#</h4>
+<h4>
+Comecei a atuar na área profissional no ano de 2020 sendo que por 3 anos realizei um Curso Técnico em Informática e atualmente estou fazendo um Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas.
+<br><br>
+Tenho conhecimentos nas tecnologias:
+    <ul>
+        <li>Java</li>
+        <li>JavaScript</li>
+        <li>CSS</li>
+        <li>PHP</li>
+        <li>MySQL</li>
+        <li>C++</li>
+        <li>C#</li>
+        <li>Python</li>
+    </ul>
+</h4>
 
 <center>
 <table>
