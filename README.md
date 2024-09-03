@@ -60,9 +60,3 @@ I started working in IT professionally in 2020 and for 3 years I took a Technica
 
 - Figma
 - Postman
-
-# :star: GitHub Stats 
-
-<p align="center">
-    <img width="49.7%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vivianpcamargo&hide=vba,freemarker&theme=dark&langs_count=100&layout=compact">
-</p>
